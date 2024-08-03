@@ -1,8 +1,9 @@
 
 ## Hello World! I´m Victória Moura, a Computer Science student at Universidade Federal do Ceará 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquecastro)](https://github.com/viquecastro/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=viquecastro"/>
 
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viquecastro&layout=compact"/>
 <!--
 **viquecastro/viquecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
