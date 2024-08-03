@@ -1,5 +1,5 @@
-## Hi there 👋
 
+## Hello World! I´m Victória Moura, a Computer Science student at Universidade Federal do Ceará 👋
 <!--
 **viquecastro/viquecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
