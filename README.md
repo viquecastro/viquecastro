@@ -4,7 +4,7 @@
 
 
 - Brazilian Computer Science Student at Universidade Federal do Ceará 👩‍🎓
-- Currently working at CEOS Júnior enterprise 💻
+- Currently working at   [**CeosJr**](https://www.ceosjr.com)  enterprise 💻
 - Operating as a web/mobile developer at my personal, professional, and academical projects 👩‍💻
 - My personal interests so far include: Software Engineering, Data Science and Computer Networking ✍
 
