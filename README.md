@@ -20,12 +20,12 @@
     alt="top langs" 
     align="center" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viquecastro&layout=compact&hide_border=true&title_color=5271ff&text_color=ffffff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viquecastro&layout=compact&hide_border=true&title_color=869cff&text_color=ffffff&bg_color=0d1117"
     />
   <img 
     alt="my stats"
     align="center" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=viquecastro&show_icons=true&count_private=true&hide_border=true&title_color=5271ff&icon_color=5271ff&text_color=ffffff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=viquecastro&show_icons=true&count_private=true&hide_border=true&title_color=869cff&icon_color=bac6ff&text_color=ffffff&bg_color=0d1117"
     />
 </div>
